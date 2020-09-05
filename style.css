@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    font-family: "YuGothic";
+}
+
+h1 {
+    font-size: 5vw;
+    color: gray;
+    text-align: center;
+}
+
+button {
+    font-size: 3vw;
+}
+
+#timer, #timer2 {
+    font-size: 7vw;
+}
+
+#timer-1{
+    background-color: pink;
+    max-width: 100%;
+    width: 100%;
+    color: #0c0c14;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#timer-2{
+    background-color: khaki;
+    max-width: 100%;
+    width: 100%;
+    color: #0c0c14;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
